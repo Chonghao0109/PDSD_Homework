@@ -1,4 +1,5 @@
-# Apr 15 - 2024
 ### NSYSU PDSD Homework
-#### HW1-1 RCA CSA and CLA
-#### HW1-2 voting and median
+#### HW1-1 RCA CSA and CLA 
+#### HW1-2 Voting and Median
+#### HW2   Synthesis HW1-1 and HW1-2
+#### HW3   Traffic Light 
